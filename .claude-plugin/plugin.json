@@ -1,0 +1,25 @@
+{
+  "name": "paid-ads",
+  "version": "0.1.0",
+  "description": "Free Claude skills and agents for performance marketers: Google Ads, Meta Ads and SEO. 48 skills and 8 agents for audits, wasted spend, creative, tracking, safe campaign builds and reporting. No paid tools.",
+  "author": {
+    "name": "Jawad Ahmed",
+    "url": "https://github.com/jawadbuilds"
+  },
+  "homepage": "https://github.com/jawadbuilds/claude-for-paid-ads",
+  "repository": "https://github.com/jawadbuilds/claude-for-paid-ads",
+  "license": "MIT",
+  "keywords": [
+    "claude-skills",
+    "claude-code",
+    "paid-ads",
+    "google-ads",
+    "meta-ads",
+    "facebook-ads",
+    "performance-marketing",
+    "media-buying",
+    "ppc",
+    "seo",
+    "marketing"
+  ]
+}

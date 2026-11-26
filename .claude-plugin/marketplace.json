@@ -1,0 +1,60 @@
+{
+  "name": "jawadbuilds",
+  "owner": {
+    "name": "Jawad Ahmed"
+  },
+  "metadata": {
+    "description": "Claude for Paid Ads: free skills and agents for Google Ads, Meta Ads and SEO.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "paid-ads",
+      "source": "./",
+      "description": "The core kit: 48 skills and 8 agents for Google Ads and Meta Ads audits, wasted spend, creative, tracking, safe campaign builds and reporting. No paid tools.",
+      "version": "0.1.0",
+      "author": {
+        "name": "Jawad Ahmed"
+      },
+      "repository": "https://github.com/jawadbuilds/claude-for-paid-ads",
+      "license": "MIT",
+      "category": "marketing"
+    },
+    {
+      "name": "claude-ads",
+      "source": "./plugins/claude-ads",
+      "description": "Deep, evidence-scored ad account audits across 12 ad platforms. A copy of AgriciDaniel/claude-ads v2.1.0 (MIT).",
+      "version": "2.1.0",
+      "author": {
+        "name": "AgriciDaniel"
+      },
+      "repository": "https://github.com/AgriciDaniel/claude-ads",
+      "license": "MIT",
+      "category": "marketing"
+    },
+    {
+      "name": "claude-seo",
+      "source": "./plugins/claude-seo",
+      "description": "Full SEO analysis: technical, content, schema, local and AI search. A copy of AgriciDaniel/claude-seo v2.6.2 (MIT).",
+      "version": "2.6.2",
+      "author": {
+        "name": "AgriciDaniel"
+      },
+      "repository": "https://github.com/AgriciDaniel/claude-seo",
+      "license": "MIT",
+      "category": "marketing"
+    },
+    {
+      "name": "claude-blog",
+      "source": "./plugins/claude-blog",
+      "description": "Researched, sourced and reviewed blog posts built for Google and AI answers. A copy of AgriciDaniel/claude-blog v2.3.2 (MIT).",
+      "version": "2.3.2",
+      "author": {
+        "name": "AgriciDaniel"
+      },
+      "repository": "https://github.com/AgriciDaniel/claude-blog",
+      "license": "MIT",
+      "category": "marketing"
+    }
+  ]
+}

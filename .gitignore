@@ -1,0 +1,10 @@
+# Working folders used while building the kit. Not part of the release.
+_sources/
+_build/
+
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+node_modules/
+.env

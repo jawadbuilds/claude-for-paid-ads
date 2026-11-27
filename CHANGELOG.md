@@ -9,3 +9,4 @@ First release.
 - The beginner guide, three connection guides and the safety page
 - Copies of `claude-ads` v2.1.0, `claude-seo` v2.6.2 and `claude-blog` v2.3.2 as optional plugins
 - `scripts/check.py`, which keeps the kit well-formed and free-only
+- A page on how the kit was audited and tested, a code of conduct and a pull request template

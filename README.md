@@ -176,7 +176,14 @@ Every agent follows the same rules. Audits and reports never change your account
 | [`agents/`](agents) | The 8 agents |
 | [`docs/`](docs) | The beginner guide, three connection guides and the safety page |
 | [`plugins/`](plugins) | Three optional plugins, described under Install |
+| [`docs/how-it-was-tested.md`](docs/how-it-was-tested.md) | The audit, the tests, and what has not been tested yet |
 | [`scripts/check.py`](scripts/check.py) | The check that keeps the kit well-formed and free-only |
+
+## How it was tested
+
+An outside reviewer audited every skill and agent, and the kit was rewritten on what the audit found. Each rewritten skill was then run on a sample ad account with problems planted in it, by someone who had not seen the answers. In a second, independent test, 13 key skills all found the false conversion count first, blocked neither of the two traps and invented no figures.
+
+No skill has been run on a real ad account yet. [How it was tested](docs/how-it-was-tested.md) says exactly what was done and what was not.
 
 ## Install
 
